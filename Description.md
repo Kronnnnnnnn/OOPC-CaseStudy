@@ -1,1 +1,1 @@
-The Student Management System is a basic C++ project that allows users to add, view, and search student records using a menu-driven interface. It uses structs to model students and vectors to store data dynamically. The system emphasizes key programming concepts like loops, conditionals, and input/output handling, making it a foundational tool for managing academic records and learning core C++ skills.
+
